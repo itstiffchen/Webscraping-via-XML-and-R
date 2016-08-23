@@ -1,2 +1,3 @@
 # webscrapingwow
-scraping Stackoverflow using XML in R
+scraping Stackoverflow using XML in R  
+used regular expressions too
